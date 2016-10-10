@@ -1,0 +1,4 @@
+module Charts
+
+Chart 1.0 Chart.qml
+singleton ChartType 1.0 ChartType.qml
